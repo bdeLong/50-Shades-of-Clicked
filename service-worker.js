@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/50-Shades-of-Grey-Click-Game/precache-manifest.35849f016514fbdb61454abed8ac929a.js"
+  "/50-Shades-of-Clicked/precache-manifest.783c83d9d5bc1a6e8f4b0385f4883882.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/50-Shades-of-Grey-Click-Game/index.html", {
+workbox.routing.registerNavigationRoute("/50-Shades-of-Clicked/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

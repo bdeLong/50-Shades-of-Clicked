@@ -1,13 +1,13 @@
 {
-  "main.css": "/50-Shades-of-Grey-Click-Game/static/css/main.01645c90.chunk.css",
-  "main.js": "/50-Shades-of-Grey-Click-Game/static/js/main.940d9a44.chunk.js",
-  "main.js.map": "/50-Shades-of-Grey-Click-Game/static/js/main.940d9a44.chunk.js.map",
-  "static/js/1.4a34e45d.chunk.js": "/50-Shades-of-Grey-Click-Game/static/js/1.4a34e45d.chunk.js",
-  "static/js/1.4a34e45d.chunk.js.map": "/50-Shades-of-Grey-Click-Game/static/js/1.4a34e45d.chunk.js.map",
-  "runtime~main.js": "/50-Shades-of-Grey-Click-Game/static/js/runtime~main.40d031b1.js",
-  "runtime~main.js.map": "/50-Shades-of-Grey-Click-Game/static/js/runtime~main.40d031b1.js.map",
-  "static/css/main.01645c90.chunk.css.map": "/50-Shades-of-Grey-Click-Game/static/css/main.01645c90.chunk.css.map",
-  "index.html": "/50-Shades-of-Grey-Click-Game/index.html",
-  "precache-manifest.35849f016514fbdb61454abed8ac929a.js": "/50-Shades-of-Grey-Click-Game/precache-manifest.35849f016514fbdb61454abed8ac929a.js",
-  "service-worker.js": "/50-Shades-of-Grey-Click-Game/service-worker.js"
+  "main.css": "/50-Shades-of-Clicked/static/css/main.6a9b8e00.chunk.css",
+  "main.js": "/50-Shades-of-Clicked/static/js/main.dd1e5d44.chunk.js",
+  "main.js.map": "/50-Shades-of-Clicked/static/js/main.dd1e5d44.chunk.js.map",
+  "static/js/1.4a34e45d.chunk.js": "/50-Shades-of-Clicked/static/js/1.4a34e45d.chunk.js",
+  "static/js/1.4a34e45d.chunk.js.map": "/50-Shades-of-Clicked/static/js/1.4a34e45d.chunk.js.map",
+  "runtime~main.js": "/50-Shades-of-Clicked/static/js/runtime~main.b4ea7b65.js",
+  "runtime~main.js.map": "/50-Shades-of-Clicked/static/js/runtime~main.b4ea7b65.js.map",
+  "static/css/main.6a9b8e00.chunk.css.map": "/50-Shades-of-Clicked/static/css/main.6a9b8e00.chunk.css.map",
+  "index.html": "/50-Shades-of-Clicked/index.html",
+  "precache-manifest.783c83d9d5bc1a6e8f4b0385f4883882.js": "/50-Shades-of-Clicked/precache-manifest.783c83d9d5bc1a6e8f4b0385f4883882.js",
+  "service-worker.js": "/50-Shades-of-Clicked/service-worker.js"
 }
